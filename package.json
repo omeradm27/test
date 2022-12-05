@@ -1,0 +1,29 @@
+{
+  "name": "omer-cetinadam",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "omer": "echo 'Benim adım Ömer'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Omer Cetinadam",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.7.5",
+    "nodemailer": "^6.8.0",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omeradm27/test.git"
+  }
+}
